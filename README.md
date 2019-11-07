@@ -9,3 +9,6 @@ Finance
 
 # Technologies used
 Tezos Smart contract
+
+# Participants
+Andriy Burkov: andriyb@gmail.com<br>
