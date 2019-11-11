@@ -11,4 +11,5 @@ Finance
 Tezos Smart contract
 
 # Participants
-Andriy Burkov: andriyb@gmail.com<br>
+Andriy Burkov: andriyb@gmail.com<br/>
+carlos Withry: carlosw@gmail.com
