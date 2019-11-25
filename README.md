@@ -11,5 +11,5 @@ Finance
 Tezos Smart contract
 
 # Participants
-Andriy Burkov: andriyb@gmail.com<br/>
-carlos Withry: carlosw@gmail.com
+Minyi Dai: minyid@andrew.cmu.edu<br/>
+Marcus Lee: shengwel@andrew.cmu.edu
